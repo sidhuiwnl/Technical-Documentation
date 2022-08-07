@@ -1,0 +1,194 @@
+** start of undefined **
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="styles.css">
+<html>
+  <div class="background">
+    <img class="background-stretch"src="http://themusicuniverse.com/wp-content/uploads/2021/03/eminemtonedeaf.jpeg" alt="Eminem" width="100%">
+  </div>
+  <div class="background-image">
+    <img class="background_right"src="https://c4.wallpaperflare.com/wallpaper/86/66/509/eminem-rap-music-wallpaper-preview.jpg" alt="eminem">
+  </div>
+<nav id="navbar">
+<header>EminemDiscography</header>
+  <ul class="title">
+    <li><a class="nav-link" href="#SlimshadyEP">SlimshadyEP</a></li>
+    <li><a class="nav-link" href="#MarshallmathersLP">MarshallmathersLP</a></li>
+    <li><a class="nav-link" href="#Eminemshow">Eminemshow</a></li>
+    <li><a class="nav-link" href="#Relapse">Relapse</a></li>
+    <li><a class="nav-link" href="#Curtaincalls2">Curtaincalls2</a></li>
+  </ul>
+</nav>
+
+<main id="main-doc">
+<section class="main-section" id="SlimshadyEP">
+<header>SlimshadyEP</header>
+  <p>
+    <code>I would like revisit!!</code>
+  </p>
+  <p>The Slim Shady LP is the second studio album by American rapper Eminem. It was released on February 23, 1999.</p>
+  <h3>The Songs I Love</h3>
+    <ul>
+      <li>My name is</li>
+      <li>My fault</li>
+      <li>Rock Bottom</li>
+    </ul>
+<br>
+<section class="main-section" id="MarshallmathersLP">
+<header>MarshallmathersLP</header>
+  <p>
+    <code>I would like revisit!!</code>
+  </p>
+  <p>This album has many songs that i love and love to share</p>
+  <h3>The songs i would recommend!</h3>
+  <ul>
+    <li>The Real SlimShady</li>
+    <li>Drug Ballad</li>
+    <li>Criminal</li>
+    <li>Who knew</li>
+  </ul>
+<br>
+<section class="main-section" id="Eminemshow">
+<header>Eminemshow</header>
+  <p>
+    <code>I would like revisit!!</code>
+  </p>
+  <p>This album has many songs that i love and love to share and one of my favourite album</p>
+  <h3>The songs i would recommend!</h3>
+  <ul>
+    <li>Bussiness</li>
+    <li>Till I collapse</li>
+    <li>WithoutMe</li>
+    <li>Soldier</li>
+  </ul>
+<br>
+<section class="main-section" id="Relapse">
+<header>Relapse</header>
+  <p>
+    <code>I would like revisit!!</code>
+  </p>
+  <p>This album has many songs that i love and love to share and this album different side of eminem</p>
+  <h3>The songs i would recommend!</h3>
+  <ul>
+    <li>DejaVu</li>
+    <li>We Made You</li>
+    <li>Taking My Ball</li>
+    <li>Stay Wide Wake</li>
+  </ul>
+<br>
+<section class="main-section" id="Curtaincalls2">
+<header>Curtaincalls2</header>
+  <p>
+    <code>I would like revisit!!</code>
+  </p>
+  <p>This album has many songs that i love and love to share and this album different side of eminem</p>
+  <h3>The songs i would recommend!</h3>
+  <ul>
+    <li>RapGod Remix</li>
+    <li>Darkness</li>
+    <li>Is this love</li>
+    <li>When im Gone</li>
+  </ul>
+<br>
+</main>
+</html>
+
+
+
+  
+    
+
+** end of undefined **
+
+** start of undefined **
+
+body{
+  font-family: 'Poppins', sans-serif;
+  line-heigth:1.4;
+  width:100%;
+}
+.background{
+ height: auto;
+ width: 100%; 
+ left:300px;
+ top:0px;
+ z-index:-1;
+}
+.background-stretch{
+  width:100%;
+  height:auto;
+  opacity:0.75;
+}
+.background-image{
+  position:absolute;
+  width:100%;
+  height:auto;
+  z-index:-1;
+  top:888px;
+  left:600px; 
+}
+.background_right{
+  opacity:0.70;
+  height:auto;
+  width:75%;
+}
+#navbar{
+  position:fixed;
+  background-color:black;
+  color:white;
+  height:100%;
+  min-width: 300px;
+  width: 300px;
+  padding:75px 0px;
+  top: 0px;
+  left: 0px;
+  z-index:3
+}
+#navbar header{
+  color:white;
+  
+  text-align:center;
+  font-size:1.8em;
+  margin:10px;
+}
+#navbar li{
+  padding:5px;
+  position:relative;
+  width:100%;
+  list-style:none;
+}
+#navbar a{
+  color:white;
+  text-decoration: none;
+}
+#navbar a:hover{
+  color: grey;
+  text-decoration: underline;
+}
+#main-doc{
+  position:absolute;
+  
+  margin-left: 310px;
+  padding: 20px;
+
+}
+section{
+  background-color:#4C5FD5;
+  padding: 2.5rem 2.5rem;
+  border-radius: 2rem;
+  width: 500px;
+  margin: auto; 
+}
+Section header {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 30px;
+  letter-spacing: 20px;
+}
+
+@media only screen and (max-width: 800px) 
+{
+  
+
+** end of undefined **
+
